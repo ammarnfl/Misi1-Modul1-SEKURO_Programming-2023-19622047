@@ -5,7 +5,7 @@
 ### Cara penggunaan
 Untuk bekerja dengan github gunakan link https://github.com/ dan lakukan pendaftaran akun
 
-![Alt text](Screenshot_20230203_115002.png)
+![](https://ibb.co/0B6Qxd0)
 
 <p>&nbsp;</p>
 
