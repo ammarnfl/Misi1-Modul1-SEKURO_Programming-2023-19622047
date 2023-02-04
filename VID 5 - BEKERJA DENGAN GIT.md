@@ -71,5 +71,5 @@ Lalu, kita lakukan commit lagi
 ![Screenshot_20230204_062752](https://user-images.githubusercontent.com/117100501/216732360-5941c698-f071-400e-85ab-ec7d8d9af77f.png)
 
 #### Mengembalikan file sebelum di commit
-Dengan cara memasukan 5 kode bash awal
+Dengan cara memasukan 5 digit kode hash awal
 ![Screenshot_20230204_063135](https://user-images.githubusercontent.com/117100501/216732465-928e0b66-8159-4934-aa8f-0c2769d01db8.png)
